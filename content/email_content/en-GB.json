@@ -1,0 +1,23 @@
+{
+    "SQUAD_MEMBER_JOINED": {
+        "subject": {
+            "welcome_text": "Welcome to"
+        },
+        "body": {
+            "hi_text": "Hi",
+            "joined_squad_text": "You have successfully joined the squad",
+            "excited_text": "We’re excited to have you on board!"
+        }
+    },
+    "SQUAD_OWNER_MEMBER_JOINED": {
+        "subject": {
+            "new_member_text": "New member joined your squad: "
+        },
+        "body": {
+            "hi_text": "Hi",
+            "member_joined_text": "has joined your squad",
+            "check_squad_dashboard_text": "Check the squad dashboard for more details."
+        }
+    }
+    
+}
