@@ -18,6 +18,33 @@
             "member_joined_text": "has joined your squad",
             "check_squad_dashboard_text": "Check the squad dashboard for more details."
         }
-    }
-    
+    },
+    "NOTIFY_SQUAD_MEMBER_LEFT": {
+        "subject": {
+            "you_left_squad_text": "You have left the squad"
+        },
+        "body": {
+            "hi_text": "Hi",
+            "successfully_left_suad_text": "You’ve successfully left the squad",
+            "consequences_squad_text": "You’ll no longer see new content from this squad, and members of the squad won’t be able to interact with you there.",
+            "if_mistake_text": "If this was a mistake, you can rejoin the squad anytime using a valid invite link (if available).",
+            "thank_you_text": "Thanks for being part of the Squad community,",
+            "team_text": "- Striver Team"
+
+        }
+    },
+    "NOTIFY_SQUAD_OWNER_MEMBER_LEFT": {
+        "subject": {
+            "has_left_squad_text": "has left your squad"
+        },
+        "body": {
+            "hi_text": "Hi",
+            "quick_update_text": "Just a quick update — ",
+            "squad_now_has_text": "Your squad now has",
+            "active_members_text": "active members.",
+            "team_text": "- Striver Team",
+            "no_action_required": "No action is required from you."
+
+        }
+    }  
 }
